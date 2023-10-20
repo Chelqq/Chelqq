@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris J</h1>
 <h3 align="center">Data Analysis / Engineering lover and devoted Python Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelqq" alt="chelqq" /></a> </p>
-
 - 🌱 I’m currently learning **The Google Data analysis course!**
 
 - 🤝 I’m looking for help with **Data Engineering!**
