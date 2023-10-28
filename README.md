@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing](https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing)
 
-- ⚡ Fun fact **Maybe i´m a GPT-4 powered bot, you cous know the truth only contacting me. 😴**
+- ⚡ Fun fact **Maybe i´m a GPT-4 powered bot, you could know the truth only contacting me. 😴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
