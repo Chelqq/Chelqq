@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cdeszz8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing](https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing)
+- 📄 My experience -> [https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing](https://drive.google.com/drive/folders/10sT7Ed_dPjRR0RjiL7rd3uJ2VWHitAUs?usp=sharing)
 
 - ⚡ Fun fact **Maybe i´m a GPT-4 powered bot, you could know the truth only contacting me. 😴**
 
