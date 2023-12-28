@@ -21,8 +21,10 @@
 <a href="https://leetcode.com/cdeszz8/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cdeszz8/" height="30" width="40" />
 </a>
+  
   <a href="https://www.hackerrank.com/profile/cdeszz8" target="blank"> 
-<img  align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<img  align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
+  alt="https://www.hackerrank.com/profile/cdeszz8"/>
   </a>
 </p>
 
