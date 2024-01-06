@@ -27,7 +27,6 @@
   alt="https://www.hackerrank.com/profile/cdeszz8"/>
   </a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6eaf8a4-51d2-413e-b136-84a013b57b3e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # 🧑‍💻 My fav repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chelqq&repo=Certifications&theme=transparent)](https://github.com/Chelqq/Certifications)
