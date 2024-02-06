@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris J</h1>
-<h3 align="center">Data Analysis / Engineering lover and devoted Python Dev</h3>
+<h3 align="center">Data Analyst & Python Dev</h3>
 
-- 🌱 I’m currently learning **The Google Data analysis course!**
+- 🌱 I’m currently taking the **CyberSec Course by @Google**
 
 - 🤝 I’m looking for help with **Data Engineering!**
 
